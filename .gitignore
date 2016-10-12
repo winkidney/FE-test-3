@@ -1,3 +1,9 @@
+# bower
+bower_components
+
+# Mr.build
+develop/*
+
 # I have no idea
 .idea
 
