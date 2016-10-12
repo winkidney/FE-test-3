@@ -1,0 +1,26 @@
+.content {
+  .detail {
+    margin-bottom: 4em;
+  }
+  .description{
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+  .paragraph {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  @media(min-width:1200px) {
+    .read-more {
+      display: none;
+    }
+  }
+  @media(max-width:1200px) {
+    .detail {
+      display: none;
+    }
+    .side-bar {
+      display: none;
+    }
+  }
+}

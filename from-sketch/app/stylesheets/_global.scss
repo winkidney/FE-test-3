@@ -1,0 +1,15 @@
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+@media(max-width:1200px){
+  #body-wrapper {
+    padding: 0 0 2em;
+  }
+}
+
+hr {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}

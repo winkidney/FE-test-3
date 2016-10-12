@@ -1,0 +1,21 @@
+{
+  "name": "from-sketch",
+  "description": "Sketch-Project by hand which using gulp and npm, etc",
+  "authors": [
+    "winkidney"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sketch"
+  ],
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}

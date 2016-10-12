@@ -1,0 +1,19 @@
+.square-btn {
+  background-color: #f3f3f3;
+  margin: 1em auto 2em;
+  padding: 1em;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+  >a{
+    color: inherit;
+    text-decoration: none;
+  }
+  .icon{
+    float: right;
+    min-width: 1px;
+    >i {
+      line-height: 1.2em;
+    }
+  }
+}
