@@ -3,14 +3,11 @@ var browserSync = require('browser-sync').create();
 var gutil = require("gulp-util");
 
 var concat = require('gulp-concat');
-var gulpIf = require('gulp-if');
 var filter = require('gulp-filter');
-var debug = require('gulp-debug');
 
 var jade = require('gulp-jade');
 var inject = require('gulp-inject');
 var mainBowerFiles = require('main-bower-files');
-var wiredep = require('wiredep').stream;
 
 var coffee = require('gulp-coffee');
 var sourcemaps = require('gulp-sourcemaps');

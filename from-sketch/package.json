@@ -22,7 +22,6 @@
     "gulp-cssnano": "^2.1.2",
     "gulp-debug": "^2.1.2",
     "gulp-filter": "^4.0.0",
-    "gulp-if": "^2.0.1",
     "gulp-imagemin": "^3.0.3",
     "gulp-inject": "^4.1.0",
     "gulp-jade": "^1.1.0",
@@ -34,6 +33,5 @@
     "main-bower-files": "^2.13.1",
     "node-sass": "^3.10.1",
     "run-sequence": "^1.2.2",
-    "wiredep": "^4.0.0"
   }
 }
